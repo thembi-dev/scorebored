@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    background-color: blueviolet;
+    color:white;
+}h3{
+    font-size: 30px;
+    
+}
+h2{
+    background-color: black;
+    border-radius: 5px;
+    color: brown;
+    font-weight: 100;
+    line-height: 50px;
+    margin-right: 4px;
+    padding-left: 30px;
+    
+    
+    
+}
+.new{
+    line-height: 20px;
+    margin-top: 100px;
+    background-color: red;
+}
+
+button{
+    background-color:blueviolet ;
+    color: white;
+    margin-bottom:20px;
+    padding-right: 3px;
+    padding-left: 5px;
+    border-radius: 50px;
+    display:inline;
+    justify-content: space-around;
+    
+}
+
